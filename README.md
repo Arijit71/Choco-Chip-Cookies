@@ -1,1 +1,1 @@
-# THIS IS A RECIPE OF CHOCO-CHIP COOKIES
+This is a recipe to make Choco-Chip Cookies.
